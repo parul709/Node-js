@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "bf2b410f-988c-412b-9a1e-515d550bae7b",
+		"name": "Express",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://super-invention-4jwp6r7955rgf7p-8000.app.github.dev/api/users/2",
+			"id": "5b682b30-24b1-4fba-92f3-0df67d338991",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": "https://super-invention-4jwp6r7955rgf7p-8000.app.github.dev/api/users/2"
+			},
+			"response": []
+		}
+	]
+}
