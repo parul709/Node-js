@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "https://super-invention-4jwp6r7955rgf7p-8000.app.github.dev/api/users/2",
+			"name": "https://super-invention-4jwp6r7955rgf7p-8000.app.github.dev/api/users",
 			"id": "5b682b30-24b1-4fba-92f3-0df67d338991",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
